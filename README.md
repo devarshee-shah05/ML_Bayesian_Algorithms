@@ -1,2 +1,8 @@
 # ML_Bayesian_Algorithms
-Machine Learning Bayesian Based Algorithms
+1. AODE 
+2. BBN
+3. Naive Bayes Classifier 
+     - Multinomial
+     - Bernoulli 
+     - Categorical
+     - Gaussian 
